@@ -1,0 +1,42 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/askcasmir/Uni-Trap/example/contracts/Traptoken.sol": {
+      "lastModificationDate": 1645319059988,
+      "contentHash": "577aee803dab3bf665ccfe5665651431",
+      "sourceName": "contracts/Traptoken.sol",
+      "solcConfig": {
+        "version": "0.5.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.5.0"
+      ],
+      "artifacts": [
+        "ERC20Interface",
+        "SafeMath",
+        "Traptoken"
+      ]
+    }
+  }
+}
